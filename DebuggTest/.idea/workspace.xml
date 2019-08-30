@@ -1,0 +1,619 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="85aacb43-3f9a-4920-a350-578f0d5753a8" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Practice/Factorial/FactorialVer2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="209">
+              <caret line="16" column="44" selection-start-line="16" selection-start-column="44" selection-end-line="16" selection-end-column="44" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jrt:///home/audre/Общедоступные/idea-IU-191.6707.61/jre64!/java.base/java/math/BigInteger.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="92">
+              <caret line="7" column="7" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jrt:///home/audre/Общедоступные/idea-IU-191.6707.61/jre64!/java.base/java/lang/Number.class">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Arquillian JUnit Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>hash</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/Collections/Hashcode/Collection.java" />
+        <option value="$PROJECT_DIR$/src/Hashcode/Hcode/Fraction.java" />
+        <option value="$PROJECT_DIR$/src/Hashcode/Hcode/Main.java" />
+        <option value="$PROJECT_DIR$/src/SecondTask/Stucher.java" />
+        <option value="$PROJECT_DIR$/src/SecondTask/Teacher.java" />
+        <option value="$PROJECT_DIR$/src/SecondTask/Student.java" />
+        <option value="$PROJECT_DIR$/src/SecondTask/AverageMarkComparator.java" />
+        <option value="$PROJECT_DIR$/src/SecondTask/People.java" />
+        <option value="$PROJECT_DIR$/src/SecondTask/Human.java" />
+        <option value="$PROJECT_DIR$/src/SecondTask/Main.java" />
+        <option value="$PROJECT_DIR$/src/Practice/Factorial.java" />
+        <option value="$PROJECT_DIR$/src/Practice/Factorial/Fact.java" />
+        <option value="$PROJECT_DIR$/src/Practice/Factorial/Factorial.java" />
+        <option value="$PROJECT_DIR$/src/Practice/Factorial/FactorialVer1.java" />
+        <option value="$PROJECT_DIR$/src/PolskaTest/Test.java" />
+        <option value="$PROJECT_DIR$/src/PolskaTest/PolskaTest.java" />
+        <option value="$PROJECT_DIR$/src/PolskaTest/Polska.java" />
+        <option value="$PROJECT_DIR$/src/SecondTask/Person.java" />
+        <option value="$PROJECT_DIR$/src/Practice/Factorial/FactorialVer2.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="width" value="960" />
+    <option name="height" value="1049" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="DebuggTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DebuggTest" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DebuggTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DebuggTest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DebuggTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DebuggTest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="PolskaTest" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DebuggTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DebuggTest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Factorial" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DebuggTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DebuggTest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="SecondTask" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="Arquillian JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../HSElabs" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="PolskaTest" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.FactorialVer2">
+    <configuration name="FactorialVer1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice.Factorial.FactorialVer1" />
+      <module name="DebuggTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Practice.Factorial.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FactorialVer2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice.Factorial.FactorialVer2" />
+      <module name="DebuggTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Practice.Factorial.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Hashcode.Hcode.Main" />
+      <module name="DebuggTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Hashcode.Hcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SecondTask.Main" />
+      <module name="DebuggTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SecondTask.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Polska" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PolskaTest.Polska" />
+      <module name="DebuggTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="PolskaTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PolskaTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="DebuggTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="PolskaTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="PolskaTest" />
+      <option name="MAIN_CLASS_NAME" value="PolskaTest.PolskaTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.FactorialVer2" />
+        <item itemvalue="Application.Polska" />
+        <item itemvalue="JUnit.PolskaTest" />
+        <item itemvalue="Application.FactorialVer1" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="85aacb43-3f9a-4920-a350-578f0d5753a8" name="Default Changelist" comment="" />
+      <created>1555845639612</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1555845639612</updated>
+      <workItem from="1555845643649" duration="397000" />
+      <workItem from="1555855338523" duration="6996000" />
+      <workItem from="1555868876017" duration="584000" />
+      <workItem from="1555871022964" duration="1515000" />
+      <workItem from="1555873905432" duration="326000" />
+      <workItem from="1556212128203" duration="90000" />
+      <workItem from="1556314223594" duration="6066000" />
+      <workItem from="1556364448941" duration="6844000" />
+      <workItem from="1556449007143" duration="2493000" />
+      <workItem from="1556459445888" duration="203000" />
+      <workItem from="1556494009507" duration="5095000" />
+      <workItem from="1557412053698" duration="44000" />
+      <workItem from="1557412194872" duration="5325000" />
+      <workItem from="1557735177030" duration="1063000" />
+      <workItem from="1558340921773" duration="3386000" />
+      <workItem from="1558539522699" duration="4934000" />
+      <workItem from="1558706917651" duration="1206000" />
+      <workItem from="1558889711035" duration="2296000" />
+      <workItem from="1558896999254" duration="5815000" />
+      <workItem from="1558944136469" duration="1833000" />
+      <workItem from="1559326210615" duration="37000" />
+      <workItem from="1559338231764" duration="641000" />
+      <workItem from="1561904907036" duration="52000" />
+      <workItem from="1561935671836" duration="2509000" />
+      <workItem from="1563666756536" duration="3514000" />
+      <workItem from="1566071378930" duration="28000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="PolskaTest - 2019.05.20 at 12h 17m 57s.xml">
+      <configuration name="PolskaTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PolskaTest - 2019.05.22 at 22h 04m 46s.xml">
+      <configuration name="PolskaTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PolskaTest - 2019.05.22 at 22h 06m 30s.xml">
+      <configuration name="PolskaTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PolskaTest - 2019.05.22 at 22h 07m 39s.xml">
+      <configuration name="PolskaTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PolskaTest - 2019.05.22 at 22h 12m 19s.xml">
+      <configuration name="PolskaTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PolskaTest - 2019.05.22 at 22h 12m 54s.xml">
+      <configuration name="PolskaTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PolskaTest - 2019.05.22 at 22h 14m 50s.xml">
+      <configuration name="PolskaTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PolskaTest - 2019.05.22 at 22h 14m 54s.xml">
+      <configuration name="PolskaTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PolskaTest - 2019.05.22 at 22h 15m 35s.xml">
+      <configuration name="PolskaTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PolskaTest - 2019.05.22 at 22h 16m 10s.xml">
+      <configuration name="PolskaTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="63292000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-2" y="0" width="1924" height="1052" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.122732125" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32901832" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.29956895" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39805827" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" weight="0.32901832" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32903227" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Maven" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Database" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/Collections/Hashcode/Collection.java" />
+    <entry file="jar://$USER_HOME$/Programms/JDKs/jdk-11.0.2/lib/src.zip!/java.base/java/lang/Object.java" />
+    <entry file="file://$PROJECT_DIR$/src/Hashcode/Hcode/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="22" column="53" selection-start-line="22" selection-start-column="53" selection-end-line="22" selection-end-column="53" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Collections/Collection.java" />
+    <entry file="jrt:///home/audre/Общедоступные/idea-IU-191.6707.61/jre64!/java.base/java/lang/Comparable.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Practice/Factorial.java" />
+    <entry file="file://$PROJECT_DIR$/src/Practice/Factorial/FactorialVer1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" column="42" selection-start-line="10" selection-start-column="42" selection-end-line="10" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Hashcode/Hcode/Fraction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1218">
+          <caret line="114" column="7" selection-start-line="114" selection-start-column="7" selection-end-line="114" selection-end-column="7" />
+          <folding>
+            <element signature="method#adjust#0;class#Fraction#0" />
+            <element signature="method#reduce#0;class#Fraction#0" />
+            <element signature="method#print#0;class#Fraction#0" />
+            <element signature="method#add#0;class#Fraction#0" />
+            <element signature="method#mult#0;class#Fraction#0" />
+            <element signature="method#div#0;class#Fraction#0" />
+            <element signature="method#sub#0;class#Fraction#0" />
+            <element signature="method#pow#0;class#Fraction#0" />
+            <element signature="method#stanAddMore#0;class#Fraction#0" />
+            <element signature="method#divMore#0;class#Fraction#0" />
+            <element signature="method#subMore#0;class#Fraction#0" />
+            <element signature="e#3170#3171#0" expanded="true" />
+            <element signature="e#3216#3217#0" expanded="true" />
+            <element signature="method#max#0;class#Fraction#0" />
+            <element signature="method#searchMin#0;class#Fraction#0" />
+            <element signature="method#min#0;class#Fraction#0" />
+            <element signature="method#isMoreThen#0;class#Fraction#0" />
+            <element signature="method#myCompareTo#0;class#Fraction#0" />
+            <element signature="method#compareTo#0;class#Fraction#0" />
+            <element signature="method#sort#0;class#Fraction#0" />
+            <element signature="method#Fraction#0;class#Fraction#0" />
+            <element signature="e#6059#6060#0" expanded="true" />
+            <element signature="e#6085#6086#0" expanded="true" />
+            <element signature="e#6103#6104#0" expanded="true" />
+            <element signature="e#6129#6130#0" expanded="true" />
+            <element signature="method#Fraction#3;class#Fraction#0" />
+            <element signature="method#toString#0;class#Fraction#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jrt:///home/audre/Общедоступные/idea-IU-191.6707.61/jre64!/java.base/java/util/LinkedList.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="149" column="17" selection-start-line="149" selection-start-column="17" selection-end-line="149" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PolskaTest/PolskaTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="621">
+          <caret line="27" column="24" selection-start-line="27" selection-start-column="24" selection-end-line="27" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#320#321#0" expanded="true" />
+            <element signature="e#374#375#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PolskaTest/Polska.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1794">
+          <caret line="83" column="34" selection-start-line="83" selection-start-column="34" selection-end-line="83" selection-end-column="34" />
+          <folding>
+            <element signature="e#2967#2968#0" expanded="true" />
+            <element signature="e#3011#3012#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SecondTask/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="21" column="36" selection-start-line="21" selection-start-column="36" selection-end-line="21" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SecondTask/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SecondTask/Teacher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SecondTask/AverageMarkComparator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SecondTask/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="830">
+          <caret line="50" selection-start-line="50" selection-end-line="50" />
+          <folding>
+            <element signature="e#1095#1096#0" expanded="true" />
+            <element signature="e#1145#1146#0" expanded="true" />
+            <element signature="e#1179#1180#0" expanded="true" />
+            <element signature="e#1213#1214#0" expanded="true" />
+            <element signature="e#1252#1253#0" expanded="true" />
+            <element signature="e#1288#1289#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SecondTask/Human.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="17" column="4" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jrt:///home/audre/Общедоступные/idea-IU-191.6707.61/jre64!/java.base/java/math/BigDecimal.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-13662">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Practice/Factorial/FactorialVer2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="16" column="44" selection-start-line="16" selection-start-column="44" selection-end-line="16" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jrt:///home/audre/Общедоступные/idea-IU-191.6707.61/jre64!/java.base/java/math/BigInteger.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="7" column="7" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jrt:///home/audre/Общедоступные/idea-IU-191.6707.61/jre64!/java.base/java/lang/Number.class">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>junit:junit:4.12</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

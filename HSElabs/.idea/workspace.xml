@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="40bc9ee0-f456-4b6a-a8d1-32011f1caf37" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Arquillian JUnit Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="width" value="960" />
+    <option name="height" value="1049" />
+  </component>
+  <component name="ProjectId" id="1Q9aUNXyHWQ34rQzfc4hygBTDlD" />
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552890281499" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="Arquillian JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="Lab5.Fraction" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Lab5.ImmutableFraction" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/Lab4" />
+      <recent name="$PROJECT_DIR$/src/Lab3" />
+      <recent name="$PROJECT_DIR$/src/Lab2" />
+      <recent name="$PROJECT_DIR$/src/Lab1" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.FractionTest.testAdd">
+    <configuration name="Polska" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lab7.PolskaTest.Polska" />
+      <module name="HSElabs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lab7.PolskaTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FractionTest.testAdd" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HSElabs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lab5.Fraction.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Lab5.Fraction" />
+      <option name="MAIN_CLASS_NAME" value="Lab5.Fraction.FractionTest" />
+      <option name="METHOD_NAME" value="testAdd" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FractionTest.testSub" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HSElabs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lab5.Fraction.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Lab5.Fraction" />
+      <option name="MAIN_CLASS_NAME" value="Lab5.Fraction.FractionTest" />
+      <option name="METHOD_NAME" value="testSub" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PolskaTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HSElabs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lab7.PolskaTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Lab7.PolskaTest" />
+      <option name="MAIN_CLASS_NAME" value="Lab7.PolskaTest.PolskaTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PolskaTest.evaluationMeth" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HSElabs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lab7.PolskaTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Lab7.PolskaTest" />
+      <option name="MAIN_CLASS_NAME" value="Lab7.PolskaTest.PolskaTest" />
+      <option name="METHOD_NAME" value="evaluationMeth" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.FractionTest.testAdd" />
+        <item itemvalue="JUnit.FractionTest.testSub" />
+        <item itemvalue="Application.Polska" />
+        <item itemvalue="JUnit.PolskaTest" />
+        <item itemvalue="JUnit.PolskaTest.evaluationMeth" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="40bc9ee0-f456-4b6a-a8d1-32011f1caf37" name="Default Changelist" comment="" />
+      <created>1549861956451</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1549861956451</updated>
+      <workItem from="1549861986152" duration="2617000" />
+      <workItem from="1549865661490" duration="516000" />
+      <workItem from="1550421027966" duration="4532000" />
+      <workItem from="1550466189693" duration="4546000" />
+      <workItem from="1551018597135" duration="384000" />
+      <workItem from="1551679586190" duration="949000" />
+      <workItem from="1551688509438" duration="1024000" />
+      <workItem from="1551689613273" duration="243000" />
+      <workItem from="1551723193663" duration="106000" />
+      <workItem from="1551794024839" duration="80000" />
+      <workItem from="1552129720614" duration="559000" />
+      <workItem from="1552140162841" duration="5133000" />
+      <workItem from="1552229326856" duration="25045000" />
+      <workItem from="1552403020342" duration="191000" />
+      <workItem from="1552650182484" duration="9368000" />
+      <workItem from="1552754039274" duration="232000" />
+      <workItem from="1552754308186" duration="6266000" />
+      <workItem from="1552819187965" duration="10167000" />
+      <workItem from="1552835785933" duration="1697000" />
+      <workItem from="1552848762697" duration="2762000" />
+      <workItem from="1552885627418" duration="4701000" />
+      <workItem from="1553442018766" duration="937000" />
+      <workItem from="1553515641633" duration="1516000" />
+      <workItem from="1554106466293" duration="1732000" />
+      <workItem from="1554320130221" duration="24000" />
+      <workItem from="1554699737142" duration="4731000" />
+      <workItem from="1555188810981" duration="140000" />
+      <workItem from="1555841914190" duration="805000" />
+      <workItem from="1555845551213" duration="485000" />
+      <workItem from="1555855336552" duration="1637000" />
+      <workItem from="1555866292665" duration="884000" />
+      <workItem from="1555868856319" duration="411000" />
+      <workItem from="1555871239424" duration="537000" />
+      <workItem from="1556068478055" duration="140000" />
+      <workItem from="1556068764135" duration="4000" />
+      <workItem from="1556068928964" duration="99000" />
+      <workItem from="1556069274916" duration="60000" />
+      <workItem from="1556212007648" duration="43000" />
+      <workItem from="1556212093655" duration="30000" />
+      <workItem from="1556450253959" duration="4377000" />
+      <workItem from="1556494062065" duration="4870000" />
+      <workItem from="1557735525034" duration="3257000" />
+      <workItem from="1558032850229" duration="25000" />
+      <workItem from="1558539892542" duration="12517000" />
+      <workItem from="1558887325197" duration="7357000" />
+      <workItem from="1558896997344" duration="10577000" />
+      <workItem from="1558944164169" duration="4418000" />
+      <workItem from="1559338875891" duration="368000" />
+      <workItem from="1561935722822" duration="2041000" />
+      <workItem from="1563660003625" duration="1215000" />
+      <workItem from="1563666405285" duration="34000" />
+      <workItem from="1566071414058" duration="2627000" />
+      <workItem from="1566652253441" duration="28000" />
+      <workItem from="1567185285223" duration="94000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="PolskaTest_evaluationMeth - 2019.05.27 at 11h 51m 50s.xml">
+      <configuration name="PolskaTest.evaluationMeth" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PolskaTest - 2019.05.27 at 11h 52m 08s.xml">
+      <configuration name="PolskaTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PolskaTest - 2019.05.27 at 11h 52m 21s.xml">
+      <configuration name="PolskaTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PolskaTest - 2019.05.27 at 11h 52m 46s.xml">
+      <configuration name="PolskaTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FractionTest_testAdd - 2019.05.27 at 11h 56m 02s.xml">
+      <configuration name="FractionTest.testAdd" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FractionTest_testSub - 2019.05.27 at 11h 56m 57s.xml">
+      <configuration name="FractionTest.testSub" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FractionTest_testSub - 2019.05.27 at 11h 59m 36s.xml">
+      <configuration name="FractionTest.testSub" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FractionTest_testSub - 2019.05.27 at 12h 00m 01s.xml">
+      <configuration name="FractionTest.testSub" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FractionTest_testSub - 2019.05.27 at 12h 15m 05s.xml">
+      <configuration name="FractionTest.testSub" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FractionTest_testAdd - 2019.05.27 at 12h 15m 33s.xml">
+      <configuration name="FractionTest.testAdd" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>HSElabs</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>junit:junit:4.12</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
